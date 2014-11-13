@@ -1,0 +1,2 @@
+# SOCIAM AMQP Example
+
