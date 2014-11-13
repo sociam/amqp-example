@@ -1,0 +1,16 @@
+{
+  "name": "amqp-example",
+  "version": "0.0.1",
+  "description": "SOCIAM AMQP Example",
+  "main": "app.js",
+  "dependencies": {
+    "amqp": "^0.2.0",
+    "socket.io": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Alexander Smith <daniel@danielsmith.eu> (https://danielsmith.eu/)",
+  "license": "ISC"
+}
